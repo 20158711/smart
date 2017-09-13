@@ -30,4 +30,7 @@ public class StaticClass {
     //手机归属地
     public static final String PHONE_KEY="a84cfbc5c5090457a96560f95de41404";
 
+    //问答机器人
+    public static final String CHAT_LIST_KEY="";
+
 }
