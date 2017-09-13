@@ -28,6 +28,6 @@ public class StaticClass {
     public static final String COURIER_KEY="4099c3f790b638ff15bd58bd40dea7c2";
 
     //手机归属地
-    public static final String PHONE_KEY="22a6ba14995ce26dd000221be51dabb";
+    public static final String PHONE_KEY="a84cfbc5c5090457a96560f95de41404";
 
 }

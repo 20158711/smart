@@ -149,7 +149,7 @@ public class PhoneActivity extends BaseActivity implements View.OnClickListener 
         RxVolley.get(url, new HttpCallback() {
             @Override
             public void onSuccess(String t) {
-                Toast.makeText(PhoneActivity.this, t, Toast.LENGTH_SHORT).show();
+//                Toast.makeText(PhoneActivity.this, t, Toast.LENGTH_SHORT).show();
                 L.i("phone:"+t);
                 parsingJaon(t);
             }
