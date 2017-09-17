@@ -33,4 +33,7 @@ public class StaticClass {
     //问答机器人
     public static final String CHAT_LIST_KEY="";
 
+    //微信精选
+    public static final String WETCH_KEY="1d36793e0349bfbfd4b5e4e34f22c5a7";
+
 }
